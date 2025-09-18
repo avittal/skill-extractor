@@ -18,3 +18,8 @@ Useful for recruiters, workforce planners, and anyone analyzing talent demand tr
 
 **Before (Job Description sample):**
 <img width="780" height="369" alt="Screen Shot 2025-09-18 at 3 37 51 PM" src="https://github.com/user-attachments/assets/b49511b0-1e83-45f1-9eda-1d191117ae62" />
+
+Looking for a Data Scientist skilled in Python, SQL, Machine Learning, and AWS.
+Chart Screenshot
+
+<img width="923" height="533" alt="Screen Shot 2025-09-18 at 3 39 03 PM" src="https://github.com/user-attachments/assets/3978265a-c385-43be-a4fc-958baaf2f1fa" />
