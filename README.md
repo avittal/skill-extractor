@@ -17,3 +17,4 @@ Useful for recruiters, workforce planners, and anyone analyzing talent demand tr
 ## 📊 Example
 
 **Before (Job Description sample):**
+<img width="780" height="369" alt="Screen Shot 2025-09-18 at 3 37 51 PM" src="https://github.com/user-attachments/assets/b49511b0-1e83-45f1-9eda-1d191117ae62" />
